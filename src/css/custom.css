@@ -1,0 +1,60 @@
+/* Global Dark Theme */
+:root {
+  --ifm-background-color: #121212;
+  --ifm-color-base: #e0e0e0;
+  --ifm-color-heading: #ffffff;
+  --ifm-navbar-background-color: #1f1f1f;
+  --ifm-navbar-link-color: #e0e0e0;
+  --ifm-footer-background-color: #1f1f1f;
+  --ifm-footer-link-color: #e0e0e0;
+  --ifm-link-color: #bb86fc;
+  --ifm-link-hover-color: #3700b3;
+}
+
+/* Body background and text color */
+body {
+  background-color: var(--ifm-background-color);
+  color: var(--ifm-color-base);
+}
+
+/* Heading colors */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--ifm-color-heading);
+}
+
+/* Navbar styles */
+.navbar {
+  background-color: var(--ifm-navbar-background-color);
+}
+
+.navbar__link {
+  color: var(--ifm-navbar-link-color);
+}
+
+.navbar__link:hover {
+  color: var(--ifm-link-hover-color);
+}
+
+/* Footer styles */
+footer {
+  background-color: var(--ifm-footer-background-color);
+}
+
+footer a {
+  color: var(--ifm-footer-link-color);
+}
+
+/* Links styling */
+a {
+  color: var(--ifm-link-color);
+}
+
+a:hover {
+  color: var(--ifm-link-hover-color);
+}
+
+/* Code blocks */
+pre, code {
+  background-color: #333333;
+  color: #e0e0e0;
+}
