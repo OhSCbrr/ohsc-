@@ -75,7 +75,7 @@ download
 
   - You can verify this by going to the PiShock website and testing them with the TEST button.
 
-# Now you’re all set to use PiShock with OhSC! 🎉
+# Now you’re all set to use OhSC! 🎉
 
 
 
