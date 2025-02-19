@@ -10,8 +10,7 @@ Let's configure OhSC!
 
 ### 1. Download and run OhSC!
 
-download
-
+[Download the latest version](https://github.com/OhSCbrr/ohsc/releases/latest)
 
 ### 2. Configure Intiface
 
@@ -23,13 +22,16 @@ download
 
 > For the best experience, it's recommended to use a Bluetooth dongle instead of your PC's built-in Bluetooth or the Lovense dongle, as those tend to have a shorter range or may cause lag.
 
+If you want to use the mobile version see [Configure Intiface Mobile (Optional)](/docs/intiface-on-mobile) and then continue to Step 3.
+
+
 ### 3. Configure PiShock (Skip to Step 4 if you don't use PiShock)
 
 #### 1. Retrieve Your Username
 
-1. Log in to your PiShock account.
-2. Click on your Account in the top-right corner under Menu.
-3. Locate your Username and note it down, as it will be required later.
+1. Log in to your [PiShock account](https://pishock.com/).
+2. Click on `Menu` in the top-right corner and then click on `Account` .
+3. Locate your `Username` and note it down, as it will be required later.
 
 #### 2. Generate Your API Key
 
@@ -43,13 +45,18 @@ download
 
 #### 3. Enter the Username and API Key in the Application
 
-1. Open your application.
+1. Open the OhSC! App.
 
-2. Locate the settings where PiShock credentials (Username/API Key) are required.
+2. Locate the settings icon.
+
+    ![OhSC Settings](ohsc_setting.png)
 
 3. Enter your Username and API Key in the designated fields.
+    ![PiShock Setting](pishock-settings.png)
 
-4. Once entered, the information will be saved automatically.
+4. Then click `Save`.
+
+
 
 #### 4. Test the Connection
 
